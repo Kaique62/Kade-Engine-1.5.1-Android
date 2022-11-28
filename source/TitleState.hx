@@ -22,6 +22,7 @@ import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 import lime.app.Application;
 import openfl.Assets;
+import motion.Actuate;
 
 #if windows
 import Discord.DiscordClient;
@@ -46,18 +47,16 @@ class TitleState extends MusicBeatState
 	var curWacky:Array<String> = [];
 
 	var wackyImage:FlxSprite;
+	var bg:FlxSprite;
+	var walls:FlxSprite;
+	var eyes:FlxSprite;
+	var isOnState:Bool = true;
 
 	override public function create():Void
 	{
 		#if android
 		FlxG.android.preventDefaultKeys = [BACK];
 		#end
-
-		#if polymod
-		polymod.Polymod.init({modRoot: "mods", dirs: ['introMod']});
-		#end
-		
-
 
 		@:privateAccess
 		{
@@ -157,37 +156,55 @@ class TitleState extends MusicBeatState
 		Conductor.changeBPM(102);
 		persistentUpdate = true;
 
-		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
-		// bg.antialiasing = true;
-		// bg.setGraphicSize(Std.int(bg.width * 0.6));
-		// bg.updateHitbox();
+		bg = new FlxSprite(-100).loadGraphic(Paths.image('titleBG'));
+		bg.scrollFactor.x = 0;
+		bg.scrollFactor.y = 0.10;
+		bg.setGraphicSize(Std.int(bg.width * 1.1));
+		bg.updateHitbox();
+		bg.screenCenter();
+		bg.antialiasing = true;
 		add(bg);
+	
+		walls = new FlxSprite(-100).loadGraphic(Paths.image('iAmInYouWalls'));
+		walls.scrollFactor.x = 0;
+		walls.scrollFactor.y = 0.10;
+		walls.setGraphicSize(Std.int(bg.width * 1));
+		walls.updateHitbox();
+		walls.screenCenter();
+		walls.antialiasing = true;
+	//	add(walls);		
 
-		logoBl = new FlxSprite(-150, -100);
+		eyes = new FlxSprite(-100).loadGraphic(Paths.image('titleEyes'));
+		eyes.frames = Paths.getSparrowAtlas('titleEyes'); // idle eyes animation
+		eyes.animation.addByPrefix('idle', 'eyes animation', 24);
+		eyes.width = 1286;
+		eyes.height =  730;
+		eyes.scrollFactor.y = 0.10;
+		eyes.setGraphicSize(Std.int(eyes.width * 1));
+		eyes.updateHitbox();
+		eyes.screenCenter();
+		eyes.antialiasing = true;
+		add(eyes);		
+
+		logoBl = new FlxSprite(152, -65);
 		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
 		logoBl.antialiasing = true;
 		logoBl.animation.addByPrefix('bump', 'logo bumpin', 24);
 		logoBl.animation.play('bump');
 		logoBl.updateHitbox();
-		// logoBl.screenCenter();
+		logoBl.setGraphicSize(Std.int(logoBl.width * 0.8));
+		logoBl.screenCenter(X);
 		// logoBl.color = FlxColor.BLACK;
 
-		gfDance = new FlxSprite(FlxG.width * 0.4, FlxG.height * 0.07);
-		gfDance.frames = Paths.getSparrowAtlas('gfDanceTitle');
-		gfDance.animation.addByIndices('danceLeft', 'gfDance', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
-		gfDance.animation.addByIndices('danceRight', 'gfDance', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
-		gfDance.antialiasing = true;
-		add(gfDance);
 		add(logoBl);
 
-		titleText = new FlxSprite(100, FlxG.height * 0.8);
-		titleText.frames = Paths.getSparrowAtlas('titleEnter');
-		titleText.animation.addByPrefix('idle', "Press Enter to Begin", 24);
+		titleText = new FlxSprite(330, 558);
+		titleText.frames = Paths.getSparrowAtlas('titleText');
+		titleText.animation.addByPrefix('idle', "ENTER IDLE", 24);
 		titleText.animation.addByPrefix('press', "ENTER PRESSED", 24);
 		titleText.antialiasing = true;
 		titleText.animation.play('idle');
 		titleText.updateHitbox();
-		// titleText.screenCenter(X);
 		add(titleText);
 
 		var logo:FlxSprite = new FlxSprite().loadGraphic(Paths.image('logo'));
@@ -251,6 +268,9 @@ class TitleState extends MusicBeatState
 
 	override function update(elapsed:Float)
 	{
+
+		FlxG.watch.addQuick('titleText',titleText);
+		FlxG.watch.addQuick('logoBl',logoBl	);
 		if (FlxG.sound.music != null)
 			Conductor.songPosition = FlxG.sound.music.time;
 		// FlxG.watch.addQuick('amp', FlxG.sound.music.amplitude);
@@ -288,7 +308,6 @@ class TitleState extends MusicBeatState
 		if (pressedEnter && !transitioning && skippedIntro)
 		{
 
-
 			if (FlxG.save.data.flashing)
 				titleText.animation.play('press');
 
@@ -320,7 +339,7 @@ class TitleState extends MusicBeatState
 					}
 					else
 					{
-						FlxG.switchState(new MainMenuState());
+						FlxG.switchState(new OutdatedSubState());
 					}
 				}
 				
@@ -376,13 +395,11 @@ class TitleState extends MusicBeatState
 	{
 		super.beatHit();
 
+
+		eyes.animation.play('idle');
 		logoBl.animation.play('bump');
 		danceLeft = !danceLeft;
 
-		if (danceLeft)
-			gfDance.animation.play('danceRight');
-		else
-			gfDance.animation.play('danceLeft');
 
 		FlxG.log.add(curBeat);
 
