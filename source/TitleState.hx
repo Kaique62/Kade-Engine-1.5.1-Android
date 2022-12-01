@@ -148,7 +148,7 @@ class TitleState extends MusicBeatState
 			// music.loadStream(Paths.music('freakyMenu'));
 			// FlxG.sound.list.add(music);
 			// music.play();
-			FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
+			FlxG.sound.playMusic(Paths.music('freakyStart'), 0);
 
 			FlxG.sound.music.fadeIn(4, 0, 0.7);
 		}
@@ -353,10 +353,10 @@ class TitleState extends MusicBeatState
 			// FlxG.sound.play(Paths.music('titleShoot'), 0.7);
 		}
 
-		if (pressedEnter && !skippedIntro && initialized)
-		{
-			skipIntro();
-		}
+		// if (pressedEnter && !skippedIntro && initialized)
+		// {
+		// 	skipIntro();
+		// }
 
 		super.update(elapsed);
 	}

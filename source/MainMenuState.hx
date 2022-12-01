@@ -12,6 +12,7 @@ import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 import lime.app.Application;
+import flixel.util.FlxTimer;
 
 #if windows
 import Discord.DiscordClient;
@@ -63,6 +64,8 @@ class MainMenuState extends MusicBeatState
 			FlxG.sound.playMusic(Paths.music('freakyMenu'));
 		}
 
+		//FlxG.sound.music.stop();
+		//FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
 		persistentUpdate = persistentDraw = true;
 
 
@@ -94,7 +97,7 @@ class MainMenuState extends MusicBeatState
 		story.setGraphicSize(Std.int(story.width * 0.5));
 
 
-		freeplay = new FlxSprite(-830, -60).loadGraphic(Paths.image('mainmenu/menu_freeplay'));
+		freeplay = new FlxSprite(-830, -50).loadGraphic(Paths.image('mainmenu/menu_freeplay'));
 		freeplay.frames = Paths.getSparrowAtlas('mainmenu/menu_freeplay');
 		freeplay.animation.addByPrefix('selected', 'freeplay basic', 24);
 		freeplay.animation.addByPrefix('not', 'freeplay white', 24);
@@ -153,8 +156,15 @@ class MainMenuState extends MusicBeatState
 		}
  */
 		FlxTween.tween(story, {x: -660}, 1, {ease: FlxEase.expoInOut});	
+		new FlxTimer().start(0.5, function(tmr:FlxTimer)
+			{
 		FlxTween.tween(freeplay, {x: -630}, 1, {ease: FlxEase.expoInOut});	
-		FlxTween.tween(options, {x: -630}, 1, {ease: FlxEase.expoInOut});	
+			});
+		new FlxTimer().start(1, function(tmr:FlxTimer)
+			{
+			FlxTween.tween(options, {x: -630}, 1, {ease: FlxEase.expoInOut});	
+			});			
+
 		finishedFunnyMove = true;
 		firstStart = false;
 
@@ -237,7 +247,25 @@ class MainMenuState extends MusicBeatState
 							{
 								new FlxTimer().start(1, function(tmr:FlxTimer)
 								{
-									goToState();
+									switch (curSelected)
+									{
+										case 0:
+											trace("Story Menu Selected");
+											FlxTween.tween(freeplay, {x: -930}, 1, {ease: FlxEase.expoInOut});	
+											FlxTween.tween(options, {x: -930}, 1, {ease: FlxEase.expoInOut});	
+											goToState();
+										case 1:
+							
+											trace("Freeplay Menu Selected");
+											FlxTween.tween(story, {x: -960}, 1, {ease: FlxEase.expoInOut});	
+											FlxTween.tween(options, {x: -930}, 1, {ease: FlxEase.expoInOut});	
+											goToState();
+										case 2:
+											FlxTween.tween(story, {x: -960}, 1, {ease: FlxEase.expoInOut});	
+											FlxTween.tween(freeplay, {x: -930}, 1, {ease: FlxEase.expoInOut});	
+											goToState();
+									}
+
 								});
 							}
 				}
@@ -261,21 +289,10 @@ class MainMenuState extends MusicBeatState
 				case 'story mode':
 					FlxG.switchState(new StoryMenuState());
 					trace("Story Menu Selected");
-					FlxTween.tween(story, {x: -960}, 1, {ease: FlxEase.expoInOut});	
-					FlxTween.tween(freeplay, {x: -930}, 1, {ease: FlxEase.expoInOut});	
-					FlxTween.tween(options, {x: -930}, 1, {ease: FlxEase.expoInOut});	
 				case 'freeplay':
-					FlxG.switchState(new FreeplayState());
-	
-					trace("Freeplay Menu Selected");
-					FlxTween.tween(story, {x: -960}, 1, {ease: FlxEase.expoInOut});	
-					FlxTween.tween(freeplay, {x: -930}, 1, {ease: FlxEase.expoInOut});	
-					FlxTween.tween(options, {x: -930}, 1, {ease: FlxEase.expoInOut});	
+					FlxG.switchState(new FreeplayState());	
 				case 'options':
 					FlxG.switchState(new OptionsMenu());
-					FlxTween.tween(story, {x: -960}, 1, {ease: FlxEase.expoInOut});	
-					FlxTween.tween(freeplay, {x: -930}, 1, {ease: FlxEase.expoInOut});	
-					FlxTween.tween(options, {x: -930}, 1, {ease: FlxEase.expoInOut});	
 			}
 		}
 		override function beatHit()
