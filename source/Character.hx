@@ -62,49 +62,29 @@ class Character extends FlxSprite
 
 				playAnim('danceRight');
 
-			case 'gf-christmas':
-				tex = Paths.getSparrowAtlas('characters/gfChristmas');
-				frames = tex;
-				animation.addByPrefix('cheer', 'GF Cheer', 24, false);
-				animation.addByPrefix('singLEFT', 'GF left note', 24, false);
-				animation.addByPrefix('singRIGHT', 'GF Right Note', 24, false);
-				animation.addByPrefix('singUP', 'GF Up Note', 24, false);
-				animation.addByPrefix('singDOWN', 'GF Down Note', 24, false);
-				animation.addByIndices('sad', 'gf sad', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "", 24, false);
-				animation.addByIndices('danceLeft', 'GF Dancing Beat', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
-				animation.addByIndices('danceRight', 'GF Dancing Beat', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
-				animation.addByIndices('hairBlow', "GF Dancing Beat Hair blowing", [0, 1, 2, 3], "", 24);
-				animation.addByIndices('hairFall', "GF Dancing Beat Hair Landing", [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "", 24, false);
-				animation.addByPrefix('scared', 'GF FEAR', 24);
+		  case 'gf-1-3-2':
+		   tex = Paths.getSparrowAtlas('characters/gopico/gf-3-1');
+		   frames = tex;
 
-				addOffset('cheer');
-				addOffset('sad', -2, -2);
-				addOffset('danceLeft', 0, -9);
-				addOffset('danceRight', 0, -9);
+		   animation.addByIndices('danceLeft', 'GF Dancing Beat', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
+		   animation.addByIndices('danceRight', 'GF Dancing Beat', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
 
-				addOffset("singUP", 0, 4);
-				addOffset("singRIGHT", 0, -20);
-				addOffset("singLEFT", 0, -19);
-				addOffset("singDOWN", 0, -20);
-				addOffset('hairBlow', 45, -8);
-				addOffset('hairFall', 0, -9);
+		   addOffset('danceLeft', 0, -53);
+		   addOffset('danceRight', 0, -53);
 
-				addOffset('scared', -2, -17);
+		   playAnim('danceRight');
 
-				playAnim('danceRight');
+		  case 'gf-1-3':
+		   tex = Paths.getSparrowAtlas('characters/gopico/gf-3-2');
+		   frames = tex;
 
-			case 'gf-car':
-				tex = Paths.getSparrowAtlas('characters/gfCar');
-				frames = tex;
-				animation.addByIndices('singUP', 'GF Dancing Beat Hair blowing CAR', [0], "", 24, false);
-				animation.addByIndices('danceLeft', 'GF Dancing Beat Hair blowing CAR', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
-				animation.addByIndices('danceRight', 'GF Dancing Beat Hair blowing CAR', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24,
-					false);
+		   animation.addByIndices('danceLeft', 'GF Dancing Beat', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
+		   animation.addByIndices('danceRight', 'GF Dancing Beat', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
 
-				addOffset('danceLeft', 0);
-				addOffset('danceRight', 0);
+		   addOffset('danceLeft', 0, -50);
+		   addOffset('danceRight', 0, -50);
 
-				playAnim('danceRight');
+		   playAnim('danceRight');
 
 			case 'gf-pixel':
 				tex = Paths.getSparrowAtlas('characters/gfPixel');
@@ -212,21 +192,7 @@ class Character extends FlxSprite
 				addOffset("singLEFT", -30);
 				addOffset("singDOWN", -30, -40);
 				playAnim('idle');
-			case 'monster-christmas':
-				tex = Paths.getSparrowAtlas('characters/monsterChristmas');
-				frames = tex;
-				animation.addByPrefix('idle', 'monster idle', 24, false);
-				animation.addByPrefix('singUP', 'monster up note', 24, false);
-				animation.addByPrefix('singDOWN', 'monster down', 24, false);
-				animation.addByPrefix('singLEFT', 'Monster left note', 24, false);
-				animation.addByPrefix('singRIGHT', 'Monster Right note', 24, false);
 
-				addOffset('idle');
-				addOffset("singUP", -20, 50);
-				addOffset("singRIGHT", -51);
-				addOffset("singLEFT", -30);
-				addOffset("singDOWN", -40, -94);
-				playAnim('idle');
 			case 'pico':
 				tex = Paths.getSparrowAtlas('characters/Pico_FNF_assetss');
 				frames = tex;
@@ -264,6 +230,138 @@ class Character extends FlxSprite
 
 				playAnim('idle');
 
+				flipX = true;
+
+       case 'pico-3-1':
+		    frames = Paths.getSparrowAtlas('characters/gopico/picod3')
+
+				animation.addByPrefix('idle', 'Pico Idle Dance', 24, false);
+				animation.addByPrefix('singLEFT', 'Pico Note Right0', 24, false);
+				animation.addByPrefix('singDOWN', 'Pico Down Note0', 24, false);
+				animation.addByPrefix('singUP', 'pico Up note0', 24, false);
+				animation.addByPrefix('singRIGHT', 'Pico NOTE LEFT0', 24, false);
+				animation.addByPrefix('shoot', 'Pico Shoot0', 24, false);
+				animation.addByPrefix('RELOAD', 'Pico Reload Gun0', 24, false);
+				animation.addByPrefix('gf-shoot', 'Pico Shoot Gf', 25, false);
+				animation.addByPrefix('gf-reload', 'Look Gf Pico Reloading Gun', 24, false);
+
+				addOffset('idle', 0);
+				addOffset('singLEFT', 30, -5);
+				addOffset('singDOWN', 246, -75);
+				addOffset('singUP', 11, 27);
+				addOffset('singRIGHT', -35, -9);
+				addOffset('shoot', 14, 28);
+				addOffset('RELOAD', 20, 0);
+				addOffset('gf-shoot', 15, 28);
+				addOffset('gf-reload', 36, 0);
+
+				playAnim('idle');
+				flipX = true;
+
+       case 'pico-3-2':
+		    frames = Paths.getSparrowAtlas('characters/gopico/picod3-2')
+
+				animation.addByPrefix('idle', 'Pico Idle Dance', 24, false);
+				animation.addByPrefix('singLEFT', 'Pico Note Right0', 24, false);
+				animation.addByPrefix('singDOWN', 'Pico Down Note0', 24, false);
+				animation.addByPrefix('singUP', 'pico Up note0', 24, false);
+				animation.addByPrefix('singRIGHT', 'Pico NOTE LEFT0', 24, false);
+				animation.addByPrefix('shoot', 'Pico Shoot0', 24, false);
+				animation.addByPrefix('RELOAD', 'Pico Reload Gun0', 24, false);
+				animation.addByPrefix('gf-shoot', 'Pico Shoot Gf', 25, false);
+				animation.addByPrefix('gf-reload', 'Look Gf Pico Reloading Gun', 24, false);
+
+				addOffset('idle', 0);
+				addOffset('singLEFT', 31, -4);
+				addOffset('singDOWN', -5, -75);
+				addOffset('singUP', 11, 27);
+				addOffset('singRIGHT', -35, -9);
+				addOffset('shoot', 14, 28);
+				addOffset('RELOAD', 20, 0);
+				addOffset('gf-shoot', 15, 28);
+				addOffset('gf-reload', 36, 0);
+
+				playAnim('idle');
+				flipX = true;
+
+       case 'pico-3-3':
+		    frames = Paths.getSparrowAtlas('characters/gopico/picod3-3')
+
+				animation.addByPrefix('idle', 'Pico Idle Dance', 24, false);
+				animation.addByPrefix('singLEFT', 'Pico Note Right0', 24, false);
+				animation.addByPrefix('singDOWN', 'Pico Down Note0', 24, false);
+				animation.addByPrefix('singUP', 'pico Up note0', 24, false);
+				animation.addByPrefix('singRIGHT', 'Pico NOTE LEFT0', 24, false);
+				animation.addByPrefix('shoot', 'Pico Shoot0', 24, false);
+				animation.addByPrefix('RELOAD', 'Pico Reload Gun0', 24, false);
+				animation.addByPrefix('gf-shoot', 'Pico Shoot Gf', 25, false);
+				animation.addByPrefix('gf-reload', 'Look Gf Pico Reloading Gun', 24, false);
+
+				addOffset('idle', 0);
+				addOffset('singLEFT', 31, -4);
+				addOffset('singDOWN', -5, -75);
+				addOffset('singUP', 11, 27);
+				addOffset('singRIGHT', -35, -9);
+				addOffset('shoot', 14, 28);
+				addOffset('RELOAD', 20, 0);
+				addOffset('gf-shoot', 15, 28);
+				addOffset('gf-reload', 36, 0);
+
+				playAnim('idle');
+				flipX = true;
+				
+       case 'pico-3-4':
+		    frames = Paths.getSparrowAtlas('characters/gopico/picod3-4')
+
+				animation.addByPrefix('idle', 'Pico Idle Dance', 24, false);
+				animation.addByPrefix('singLEFT', 'Pico Note Right0', 24, false);
+				animation.addByPrefix('singDOWN', 'Pico Down Note0', 24, false);
+				animation.addByPrefix('singUP', 'pico Up note0', 24, false);
+				animation.addByPrefix('singRIGHT', 'Pico NOTE LEFT0', 24, false);
+				animation.addByPrefix('shoot', 'Pico Shoot0', 24, false);
+				animation.addByPrefix('RELOAD', 'Pico Reload Gun0', 24, false);
+				animation.addByPrefix('gf-shoot', 'Pico Shoot Gf', 25, false);
+				animation.addByPrefix('gf-reload', 'Look Gf Pico Reloading Gun', 24, false);
+
+				addOffset('idle', 0);
+				addOffset('singLEFT', 35, -5);
+				addOffset('singDOWN', -5, -75);
+				addOffset('singUP', 11, 27);
+				addOffset('singRIGHT', -35, -9);
+				addOffset('shoot', 14, 28);
+				addOffset('RELOAD', 20, 0);
+				addOffset('gf-shoot', 15, 28);
+				addOffset('gf-reload', 36, 0);
+
+				playAnim('idle');
+				flipX = true;
+				
+       case 'pico-3-5':
+		    frames = Paths.getSparrowAtlas('characters/gopico/picod3-5')
+
+				animation.addByPrefix('idle', 'Pico Idle Dance', 24, false);
+				animation.addByPrefix('singLEFT', 'Pico Note Right0', 24, false);
+				animation.addByPrefix('singDOWN', 'Pico Down Note0', 24, false);
+				animation.addByPrefix('singUP', 'pico Up note0', 24, false);
+				animation.addByPrefix('singRIGHT', 'Pico NOTE LEFT0', 24, false);
+				animation.addByPrefix('shoot', 'Pico Shoot0', 24, false);
+				animation.addByPrefix('RELOAD', 'Pico Reload Gun0', 24, false);
+				animation.addByPrefix('gf-shoot', 'Pico Shoot Gf', 25, false);
+				animation.addByPrefix('gf-reload', 'Look Gf Pico Reloading Gun', 24, false);
+				animation.addByPrefix('singUPalt', 'pico Up note ALT', 24, false);
+
+				addOffset('idle', 0);
+				addOffset('singLEFT', 69, 19);
+				addOffset('singDOWN', 249, -29);
+				addOffset('singUP', 7, 52);
+				addOffset('singRIGHT', -35, -11);
+				addOffset('shoot', 17, 23);
+				addOffset('RELOAD', 20, 0);
+				addOffset('gf-shoot', 15, 28);
+				addOffset('gf-reload', 36, 0);
+				addOffset('singUPalt', 10, 25);
+
+				playAnim('idle');
 				flipX = true;
 
 			case 'bf':
@@ -308,59 +406,42 @@ class Character extends FlxSprite
 
 				flipX = true;
 
-			case 'bf-christmas':
-				var tex = Paths.getSparrowAtlas('characters/bfChristmas');
-				frames = tex;
-				animation.addByPrefix('idle', 'BF idle dance', 24, false);
-				animation.addByPrefix('singUP', 'BF NOTE UP0', 24, false);
-				animation.addByPrefix('singLEFT', 'BF NOTE LEFT0', 24, false);
-				animation.addByPrefix('singRIGHT', 'BF NOTE RIGHT0', 24, false);
-				animation.addByPrefix('singDOWN', 'BF NOTE DOWN0', 24, false);
-				animation.addByPrefix('singUPmiss', 'BF NOTE UP MISS', 24, false);
-				animation.addByPrefix('singLEFTmiss', 'BF NOTE LEFT MISS', 24, false);
-				animation.addByPrefix('singRIGHTmiss', 'BF NOTE RIGHT MISS', 24, false);
-				animation.addByPrefix('singDOWNmiss', 'BF NOTE DOWN MISS', 24, false);
-				animation.addByPrefix('hey', 'BF HEY', 24, false);
+		  case 'bf-1-3':
+		    frames = Paths.getSparrowAtlas('characters/gopico/bf-1-3')
 
-				addOffset('idle', -5);
-				addOffset("singUP", -29, 27);
-				addOffset("singRIGHT", -38, -7);
-				addOffset("singLEFT", 12, -6);
-				addOffset("singDOWN", -10, -50);
-				addOffset("singUPmiss", -29, 27);
-				addOffset("singRIGHTmiss", -30, 21);
-				addOffset("singLEFTmiss", 12, 24);
-				addOffset("singDOWNmiss", -11, -19);
-				addOffset("hey", 7, 4);
+				animation.addByPrefix('idle', 'BF idle dance', 24, false);
+				animation.addByPrefix('singLEFT', 'BF NOTE LEFT0', 24, false);
+				animation.addByPrefix('singDOWN', 'BF NOTE DOWN0', 24, false);
+				animation.addByPrefix('singUP', 'BF NOTE UP0', 24, false);
+				animation.addByPrefix('singRIGHT', 'BF NOTE RIGHT0', 24, false);
+
+				addOffset('idle', -5, 10);
+				addOffset('singLEFT', 12, 4);
+				addOffset('singDOWN', -10, -39);
+				addOffset('singUP', -37, 42);
+				addOffset('singRIGHT', -46, 4);
 
 				playAnim('idle');
-
 				flipX = true;
-			case 'bf-car':
-				var tex = Paths.getSparrowAtlas('characters/bfCar');
-				frames = tex;
+
+      case 'bf-1-3-2':
+		    frames = Paths.getSparrowAtlas('characters/gopico/bf-3-2')
+
 				animation.addByPrefix('idle', 'BF idle dance', 24, false);
-				animation.addByPrefix('singUP', 'BF NOTE UP0', 24, false);
 				animation.addByPrefix('singLEFT', 'BF NOTE LEFT0', 24, false);
-				animation.addByPrefix('singRIGHT', 'BF NOTE RIGHT0', 24, false);
 				animation.addByPrefix('singDOWN', 'BF NOTE DOWN0', 24, false);
-				animation.addByPrefix('singUPmiss', 'BF NOTE UP MISS', 24, false);
-				animation.addByPrefix('singLEFTmiss', 'BF NOTE LEFT MISS', 24, false);
-				animation.addByPrefix('singRIGHTmiss', 'BF NOTE RIGHT MISS', 24, false);
-				animation.addByPrefix('singDOWNmiss', 'BF NOTE DOWN MISS', 24, false);
+				animation.addByPrefix('singUP', 'BF NOTE UP0', 24, false);
+				animation.addByPrefix('singRIGHT', 'BF NOTE RIGHT0', 24, false);
 
-				addOffset('idle', -5);
-				addOffset("singUP", -29, 27);
-				addOffset("singRIGHT", -38, -7);
-				addOffset("singLEFT", 12, -6);
-				addOffset("singDOWN", -10, -50);
-				addOffset("singUPmiss", -29, 27);
-				addOffset("singRIGHTmiss", -30, 21);
-				addOffset("singLEFTmiss", 12, 24);
-				addOffset("singDOWNmiss", -11, -19);
+				addOffset('idle', -5, 10);
+				addOffset('singLEFT', 19, -5);
+				addOffset('singDOWN', -9, -53);
+				addOffset('singUP', -34, 34);
+				addOffset('singRIGHT', -43, 3);
+
 				playAnim('idle');
-
 				flipX = true;
+
 			case 'bf-pixel':
 				frames = Paths.getSparrowAtlas('characters/bfPixel');
 				animation.addByPrefix('idle', 'BF IDLE', 24, false);
@@ -472,32 +553,6 @@ class Character extends FlxSprite
 				playAnim('idle');
 
 				antialiasing = false;
-
-			case 'parents-christmas':
-				frames = Paths.getSparrowAtlas('characters/mom_dad_christmas_assets');
-				animation.addByPrefix('idle', 'Parent Christmas Idle', 24, false);
-				animation.addByPrefix('singUP', 'Parent Up Note Dad', 24, false);
-				animation.addByPrefix('singDOWN', 'Parent Down Note Dad', 24, false);
-				animation.addByPrefix('singLEFT', 'Parent Left Note Dad', 24, false);
-				animation.addByPrefix('singRIGHT', 'Parent Right Note Dad', 24, false);
-
-				animation.addByPrefix('singUP-alt', 'Parent Up Note Mom', 24, false);
-
-				animation.addByPrefix('singDOWN-alt', 'Parent Down Note Mom', 24, false);
-				animation.addByPrefix('singLEFT-alt', 'Parent Left Note Mom', 24, false);
-				animation.addByPrefix('singRIGHT-alt', 'Parent Right Note Mom', 24, false);
-
-				addOffset('idle');
-				addOffset("singUP", -47, 24);
-				addOffset("singRIGHT", -1, -23);
-				addOffset("singLEFT", -30, 16);
-				addOffset("singDOWN", -31, -29);
-				addOffset("singUP-alt", -47, 24);
-				addOffset("singRIGHT-alt", -1, -24);
-				addOffset("singLEFT-alt", -30, 15);
-				addOffset("singDOWN-alt", -30, -27);
-
-				playAnim('idle');
 		}
 
 		dance();
