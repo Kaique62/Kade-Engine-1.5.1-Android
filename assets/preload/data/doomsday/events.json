@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "schoolEvil",
+		"player1": "bf-pixel-soul",
+		"player2": "senpai-serius",
+		"player3": null,
+		"events": [
+			[
+				11636.3636363636,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				23272.7272727273,
+				[
+					[
+						"Set Cam Zoom",
+						"1.05",
+						""
+					]
+				]
+			],
+			[
+				46545.4545454546,
+				[
+					[
+						"Set Cam Zoom",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				58181.8181818182,
+				[
+					[
+						"Set Cam Zoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				69818.1818181819,
+				[
+					[
+						"Set Cam Zoom",
+						"1.05",
+						""
+					]
+				]
+			],
+			[
+				93090.9090909091,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 165,
+		"arrowSkin": "NOTE_assetsFallen",
+		"needsVoices": true,
+		"song": "Doomsday"
+	}
+}

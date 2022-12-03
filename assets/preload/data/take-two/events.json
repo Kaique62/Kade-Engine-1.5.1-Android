@@ -1,0 +1,1079 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "mall-finale",
+		"player1": "spiritbf-final",
+		"player2": "monster",
+		"player3": null,
+		"events": [
+			[
+				20131.5789473684,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"welcome"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i see you're back again"
+					]
+				]
+			],
+			[
+				22736.8421052632,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"back for more"
+					]
+				]
+			],
+			[
+				23684.2105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i see"
+					]
+				]
+			],
+			[
+				24315.7894736842,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"you just couldn't get"
+					]
+				]
+			],
+			[
+				25105.2631578947,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"enough"
+					]
+				]
+			],
+			[
+				25578.947368421,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"enough of"
+					]
+				]
+			],
+			[
+				25894.7368421053,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"enough of me"
+					]
+				]
+			],
+			[
+				26684.2105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				29052.6315789474,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"you"
+					]
+				]
+			],
+			[
+				29684.2105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"you can't"
+					]
+				]
+			],
+			[
+				30315.7894736842,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"you can't win."
+					]
+				]
+			],
+			[
+				31184.2105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i'm the darkness inside"
+					]
+				]
+			],
+			[
+				32526.3157894737,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"your room"
+					]
+				]
+			],
+			[
+				33631.5789473684,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				33789.4736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"when the lights go off"
+					]
+				]
+			],
+			[
+				35052.6315789474,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i'll be there"
+					]
+				]
+			],
+			[
+				36947.3684210526,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				37894.7368421053,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"wa"
+					]
+				]
+			],
+			[
+				39157.8947368421,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"watching"
+					]
+				]
+			],
+			[
+				39789.4736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"let me say"
+					]
+				]
+			],
+			[
+				41052.6315789474,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i dont think you get it yet"
+					]
+				]
+			],
+			[
+				42710.5263157895,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"but i'm just the darkness"
+					]
+				]
+			],
+			[
+				43894.7368421053,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"that lives inside your mind"
+					]
+				]
+			],
+			[
+				46736.8421052632,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				50210.5263157895,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the"
+					]
+				]
+			],
+			[
+				50526.3157894737,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the mons"
+					]
+				]
+			],
+			[
+				50842.1052631579,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the monster"
+					]
+				]
+			],
+			[
+				51157.8947368421,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the monster under"
+					]
+				]
+			],
+			[
+				51473.6842105263,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the monster under your"
+					]
+				]
+			],
+			[
+				51789.4736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the monster under your bed"
+					]
+				]
+			],
+			[
+				52736.8421052632,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				52815.7894736842,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the voices inside your head"
+					]
+				]
+			],
+			[
+				54947.3684210526,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"that's just me"
+					]
+				]
+			],
+			[
+				56210.5263157895,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the corruption's in your heart"
+					]
+				]
+			],
+			[
+				58736.8421052632,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i"
+					]
+				]
+			],
+			[
+				58894.7368421053,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i just"
+					]
+				]
+			],
+			[
+				59052.6315789474,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i just wanna"
+					]
+				]
+			],
+			[
+				59368.4210526316,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i just wanna bring"
+					]
+				]
+			],
+			[
+				59684.2105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i just wanna bring it"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i just wanna bring it out"
+					]
+				]
+			],
+			[
+				60631.5789473684,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"make the halls all black and bloody"
+					]
+				]
+			],
+			[
+				63157.8947368421,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"la-la-la-la-la, la-la-la-la"
+					]
+				]
+			],
+			[
+				65842.1052631579,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				67894.7368421053,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i cant wait"
+					]
+				]
+			],
+			[
+				68684.2105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"to start the fun"
+					]
+				]
+			],
+			[
+				70736.8421052632,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"snowmen smiling with your teeth"
+					]
+				]
+			],
+			[
+				73263.1578947369,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"bake you with spices"
+					]
+				]
+			],
+			[
+				74763.1578947369,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"such a feast"
+					]
+				]
+			],
+			[
+				75947.3684210526,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				79578.9473684211,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"just"
+					]
+				]
+			],
+			[
+				79894.7368421053,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"wait"
+					]
+				]
+			],
+			[
+				80210.5263157895,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"right"
+					]
+				]
+			],
+			[
+				80526.3157894737,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"there"
+					]
+				]
+			],
+			[
+				80842.1052631579,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"stand still"
+					]
+				]
+			],
+			[
+				81473.6842105263,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				81789.4736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"and let me"
+					]
+				]
+			],
+			[
+				82578.9473684211,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"take over your mind"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"you won't be able to resist"
+					]
+				]
+			],
+			[
+				86526.3157894737,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"it's not like you'd want to"
+					]
+				]
+			],
+			[
+				88263.1578947368,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				89684.2105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"just"
+					]
+				]
+			],
+			[
+				90315.7894736842,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"let"
+					]
+				]
+			],
+			[
+				90947.3684210526,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"go"
+					]
+				]
+			],
+			[
+				91894.7368421052,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the"
+					]
+				]
+			],
+			[
+				92210.5263157895,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the boogieman inside"
+					]
+				]
+			],
+			[
+				93157.8947368421,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"your"
+					]
+				]
+			],
+			[
+				93473.6842105263,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"your clo"
+					]
+				]
+			],
+			[
+				93789.4736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"your closet,"
+					]
+				]
+			],
+			[
+				94421.0526315789,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"the demons inside your mind"
+					]
+				]
+			],
+			[
+				96789.4736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				98526.3157894737,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"wa"
+					]
+				]
+			],
+			[
+				99789.4736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"watching"
+					]
+				]
+			],
+			[
+				100421.052631579,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"let me say"
+					]
+				]
+			],
+			[
+				101842.105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				103578.947368421,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"back for round two"
+					]
+				]
+			],
+			[
+				104842.105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i wont fall this time"
+					]
+				]
+			],
+			[
+				107526.315789474,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				108157.894736842,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"you're"
+					]
+				]
+			],
+			[
+				108631.578947368,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"you're over-"
+					]
+				]
+			],
+			[
+				109894.736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"you're over-confident"
+					]
+				]
+			],
+			[
+				111157.894736842,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"make the halls"
+					]
+				]
+			],
+			[
+				112105.263157895,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"all black and bloody"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				114315.789473684,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"hide all the darkness"
+					]
+				]
+			],
+			[
+				115342.105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"and hatred inside"
+					]
+				]
+			],
+			[
+				117631.578947368,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				118736.842105263,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"this won't be"
+					]
+				]
+			],
+			[
+				119684.210526316,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"your"
+					]
+				]
+			],
+			[
+				119842.105263158,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"your fa"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"your famil"
+					]
+				]
+			],
+			[
+				120157.894736842,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"your familiar"
+					]
+				]
+			],
+			[
+				120473.684210526,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"your familiar finale"
+					]
+				]
+			],
+			[
+				121421.052631579,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				121894.736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"i don't think you get it yet"
+					]
+				]
+			],
+			[
+				123552.631578947,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"but i'm just the darkness"
+					]
+				]
+			],
+			[
+				124894.736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"that lives inside your mind"
+					]
+				]
+			],
+			[
+				127263.157894737,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				131368.421052631,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"just..."
+					]
+				]
+			],
+			[
+				133105.263157895,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				133894.736842105,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"let"
+					]
+				]
+			],
+			[
+				135157.894736842,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"let go"
+					]
+				]
+			],
+			[
+				136184.210526316,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"your silly ideas"
+					]
+				]
+			],
+			[
+				137526.315789474,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"of what shouldn't happen"
+					]
+				]
+			],
+			[
+				138947.368421053,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						"won't stop me this time"
+					]
+				]
+			],
+			[
+				141631.578947368,
+				[
+					[
+						"Add Lyrics Text",
+						"set",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 95,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Take-Two"
+	}
+}

@@ -1,0 +1,5 @@
+:senpai:What the hell are you doing to this place?!?
+:senpai:That's it. I'm done with you. I'm ending this here.
+:bf:trace("You're only a piece of code with a scripted story.");
+:bf:trace("Whatever you say, I won't care. Your time is coming.");
+:senpai:I'll end you where you stand, pipsqueak.

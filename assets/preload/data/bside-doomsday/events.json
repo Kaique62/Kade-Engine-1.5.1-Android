@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "schoolEvil",
+		"player1": "bf-pixel-soul-bside",
+		"player2": "senpai-serius-bside",
+		"player3": null,
+		"events": [
+			[
+				46545.4545454546,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				58181.8181818182,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				69818.1818181819,
+				[
+					[
+						"Set Cam Zoom",
+						"0.85",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.01, 0.0001",
+						"23, 0.005"
+					],
+					[
+						"Change Character",
+						"1",
+						"senpai-serius2-bside"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 165,
+		"arrowSkin": "NOTE_assetsFallen",
+		"needsVoices": true,
+		"song": "Bside-Doomsday"
+	}
+}

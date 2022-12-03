@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "schoolEvil",
+		"player1": "bf-pixel-grey",
+		"player2": "spirit-grey",
+		"player3": null,
+		"events": [
+			[
+				22500,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-soul"
+					],
+					[
+						"Change Character",
+						"1",
+						"spirit-sad"
+					]
+				]
+			],
+			[
+				180617.647058823,
+				[
+					[
+						"Change Character",
+						"1",
+						"spirit"
+					]
+				]
+			],
+			[
+				203286.764705882,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"spirit-sad"
+					]
+				]
+			],
+			[
+				203294.117647058,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.05",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 170,
+		"arrowSkin": "NOTE_assetsFallen",
+		"needsVoices": true,
+		"song": "Banishment"
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "stage-d2-bside",
+		"player1": "bf-spiritinsane-bside",
+		"player2": "dad-resurgence-bside",
+		"player3": null,
+		"events": [
+			[
+				57230.7692307692,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				59076.9230769231,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-spiritinsane2-bside"
+					],
+					[
+						"Screen Shake",
+						"42, 0.004",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				100384.615384615,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				102923.076923077,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				131076.923076923,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				132923.076923077,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Screen Shake",
+						"23, 0.004",
+						""
+					]
+				]
+			],
+			[
+				152076.923076923,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				154615.384615384,
+				[
+					[
+						"Set Cam Zoom",
+						"0.85",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bside-Resurgence"
+	}
+}

@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "philly",
+		"player1": "bf-pico",
+		"player2": "pico",
+		"player3": null,
+		"events": [
+			[
+				11900,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				24700,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				43900,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				104700,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				125500,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				155900,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				156800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-pico",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Emancipation"
+	}
+}

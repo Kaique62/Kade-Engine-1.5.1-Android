@@ -1,0 +1,189 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "bf-mind",
+		"player1": "bfdies",
+		"player2": "tvstatic",
+		"player3": null,
+		"events": [
+			[
+				44307.6923076923,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvdad"
+					]
+				]
+			],
+			[
+				55384.6153846154,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvstatic"
+					]
+				]
+			],
+			[
+				59076.9230769231,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvspooky"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvstatic"
+					]
+				]
+			],
+			[
+				73846.1538461538,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvpico"
+					]
+				]
+			],
+			[
+				73846.1538461538,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfdies1"
+					]
+				]
+			],
+			[
+				86769.2307692307,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvstatic"
+					]
+				]
+			],
+			[
+				88615.3846153846,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvmom"
+					]
+				]
+			],
+			[
+				101538.461538461,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvstatic"
+					]
+				]
+			],
+			[
+				103384.615384615,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvparents"
+					]
+				]
+			],
+			[
+				110192.307692308,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvstatic"
+					]
+				]
+			],
+			[
+				110769.230769231,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvvoj"
+					]
+				]
+			],
+			[
+				118153.846153846,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfdies2"
+					]
+				]
+			],
+			[
+				124615.384615385,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvstatic"
+					]
+				]
+			],
+			[
+				155076.923076923,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvgf"
+					]
+				]
+			],
+			[
+				169846.153846154,
+				[
+					[
+						"BF Fade",
+						"2.5",
+						""
+					]
+				]
+			],
+			[
+				176307.692307692,
+				[
+					[
+						"Change Character",
+						"1",
+						"tvstatic"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 130,
+		"arrowSkin": "SAD_NOTE_assets",
+		"needsVoices": true,
+		"song": "Soliloquy"
+	}
+}

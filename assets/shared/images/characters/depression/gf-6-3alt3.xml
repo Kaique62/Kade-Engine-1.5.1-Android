@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="depressionyeahhh3.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGF IdleCorrupt30000" x="0" y="0" width="310" height="439" frameX="0" frameY="-10" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30001" x="0" y="0" width="310" height="439" frameX="0" frameY="-10" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30002" x="310" y="0" width="302" height="439" frameX="-5" frameY="-10" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30003" x="310" y="0" width="302" height="439" frameX="-5" frameY="-10" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30004" x="612" y="0" width="305" height="448" frameX="-2" frameY="-1" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30005" x="612" y="0" width="305" height="448" frameX="-2" frameY="-1" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30006" x="917" y="0" width="299" height="446" frameX="-8" frameY="-1" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30007" x="917" y="0" width="299" height="446" frameX="-8" frameY="-1" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30008" x="1216" y="0" width="301" height="447" frameX="-12" frameY="0" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30009" x="1216" y="0" width="301" height="447" frameX="-12" frameY="0" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30010" x="1517" y="0" width="298" height="447" frameX="-14" frameY="0" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30011" x="1517" y="0" width="298" height="447" frameX="-14" frameY="0" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30012" x="1517" y="0" width="298" height="447" frameX="-14" frameY="0" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30013" x="1517" y="0" width="298" height="447" frameX="-14" frameY="0" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF IdleCorrupt30014" x="1517" y="0" width="298" height="447" frameX="-14" frameY="0" frameWidth="313" frameHeight="449"/>
+	<SubTexture name="BGF Note DOWNCorrupt30000" x="0" y="448" width="303" height="446" frameX="0" frameY="0" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30001" x="0" y="448" width="303" height="446" frameX="0" frameY="0" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30002" x="303" y="448" width="298" height="428" frameX="-5" frameY="-17" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30003" x="303" y="448" width="298" height="428" frameX="-5" frameY="-17" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30004" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30005" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30006" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30007" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30008" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30009" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30010" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30011" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30012" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30013" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30014" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30015" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNCorrupt30016" x="601" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note LEFTCorrupt30000" x="898" y="448" width="300" height="444" frameX="0" frameY="0" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30001" x="898" y="448" width="300" height="444" frameX="0" frameY="0" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30002" x="1198" y="448" width="298" height="444" frameX="-5" frameY="0" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30003" x="1198" y="448" width="298" height="444" frameX="-5" frameY="0" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30004" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30005" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30006" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30007" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30008" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30009" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30010" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30011" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30012" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30013" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30014" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30015" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTCorrupt30016" x="1496" y="448" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30000" x="0" y="894" width="302" height="448" frameX="-4" frameY="-2" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30001" x="0" y="894" width="302" height="448" frameX="-4" frameY="-2" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30002" x="302" y="894" width="298" height="447" frameX="-4" frameY="-3" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30003" x="302" y="894" width="298" height="447" frameX="-4" frameY="-3" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30004" x="600" y="894" width="300" height="449" frameX="-1" frameY="-1" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30005" x="600" y="894" width="300" height="449" frameX="-1" frameY="-1" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30006" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30007" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30008" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30009" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30010" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30011" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30012" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30013" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30014" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30015" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTCorrupt30016" x="900" y="894" width="302" height="450" frameX="0" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="BGF Note UPCorrupt30000" x="1202" y="894" width="319" height="443" frameX="0" frameY="-8" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30001" x="1202" y="894" width="319" height="443" frameX="0" frameY="-8" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30002" x="1521" y="894" width="314" height="451" frameX="-5" frameY="-3" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30003" x="1521" y="894" width="314" height="451" frameX="-5" frameY="-3" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30004" x="0" y="1345" width="307" height="456" frameX="-12" frameY="0" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30005" x="0" y="1345" width="307" height="456" frameX="-12" frameY="0" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30006" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30007" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30008" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30009" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30010" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30011" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30012" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30013" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30014" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30015" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPCorrupt30016" x="307" y="1345" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+</TextureAtlas>

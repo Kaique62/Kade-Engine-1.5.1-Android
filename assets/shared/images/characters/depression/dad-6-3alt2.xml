@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dad-6-3alt2.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20000" x="0" y="0" width="450" height="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20001" x="0" y="0" width="450" height="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20002" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20003" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20004" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20005" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20006" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20007" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20008" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20009" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20010" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20011" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20012" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20013" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20014" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20015" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20016" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20017" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20018" x="450" y="0" width="441" height="775" frameX="0" frameY="-4" frameWidth="450" frameHeight="779"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20000" x="891" y="0" width="412" height="808" frameX="-1" frameY="0" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20001" x="891" y="0" width="412" height="808" frameX="-1" frameY="0" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20002" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20003" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20004" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20005" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20006" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20007" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20008" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20009" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20010" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20011" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20012" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20013" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20014" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20015" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20016" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20017" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20018" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20019" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20020" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20021" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20022" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20023" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20024" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20025" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20026" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20027" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20028" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20029" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20030" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20031" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20032" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20033" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20034" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20035" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20036" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20037" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20038" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20039" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20040" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20041" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20042" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20043" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20044" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20045" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20046" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20047" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20048" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20049" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20050" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20051" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20052" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20053" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20054" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20055" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20056" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20057" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20058" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20059" x="1303" y="0" width="410" height="800" frameX="0" frameY="-8" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20000" x="1713" y="0" width="463" height="752" frameX="0" frameY="-3" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20001" x="1713" y="0" width="463" height="752" frameX="0" frameY="-3" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20002" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20003" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20004" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20005" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20006" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20007" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20008" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20009" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20010" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20011" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20012" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20013" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20014" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20015" x="2176" y="0" width="450" height="755" frameX="-3" frameY="0" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20000" x="2626" y="0" width="371" height="766" frameX="0" frameY="0" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20001" x="2626" y="0" width="371" height="766" frameX="0" frameY="0" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20002" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20003" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20004" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20005" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20006" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20007" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20008" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20009" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20010" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20011" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20012" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20013" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20014" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20015" x="2997" y="0" width="375" height="765" frameX="0" frameY="-1" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad idle dance Weaken20000" x="3372" y="0" width="441" height="768" frameX="-5" frameY="0" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20001" x="3372" y="0" width="441" height="768" frameX="-5" frameY="0" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20002" x="0" y="808" width="445" height="757" frameX="0" frameY="-11" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20003" x="0" y="808" width="445" height="757" frameX="0" frameY="-11" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20004" x="445" y="808" width="443" height="754" frameX="-1" frameY="-14" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20005" x="445" y="808" width="443" height="754" frameX="-1" frameY="-14" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20006" x="888" y="808" width="440" height="758" frameX="-2" frameY="-10" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20007" x="888" y="808" width="440" height="758" frameX="-2" frameY="-10" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20008" x="1328" y="808" width="443" height="765" frameX="-4" frameY="-3" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20009" x="1328" y="808" width="443" height="765" frameX="-4" frameY="-3" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20010" x="1771" y="808" width="442" height="768" frameX="-5" frameY="0" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20011" x="1771" y="808" width="442" height="768" frameX="-5" frameY="0" frameWidth="447" frameHeight="768"/>
+	<SubTexture name="Dad idle dance Weaken20012" x="1771" y="808" width="442" height="768" frameX="-5" frameY="0" frameWidth="447" frameHeight="768"/>
+</TextureAtlas>

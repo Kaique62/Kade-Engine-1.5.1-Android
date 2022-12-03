@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "school-3",
+		"player1": "bf-pixel-glitch5",
+		"player2": "senpai-mad",
+		"player3": null,
+		"events": [
+			[
+				34666.6666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"spirit-grey"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-grey"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch5"
+					],
+					[
+						"Change Character",
+						"1",
+						"senpai-mad"
+					]
+				]
+			],
+			[
+				77333.3333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"spirit-grey"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-grey"
+					]
+				]
+			],
+			[
+				98666.6666666666,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch5"
+					],
+					[
+						"Change Character",
+						"1",
+						"senpai-mad"
+					]
+				]
+			],
+			[
+				121916.666666667,
+				[
+					[
+						"Play Animation",
+						"glitch",
+						"0"
+					]
+				]
+			],
+			[
+				122666.666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"spirit-grey"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-grey"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch5"
+					],
+					[
+						"Change Character",
+						"1",
+						"senpai-mad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 180,
+		"arrowSkin": "NOTE_assetsFallen",
+		"needsVoices": true,
+		"song": "Short-Circuit"
+	}
+}

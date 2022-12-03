@@ -1,0 +1,1114 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "stage-d1-bside",
+		"player1": "bf-dad-bside",
+		"player2": "dad-bed-bside",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				2000,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				4000,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"0.2"
+					]
+				]
+			],
+			[
+				5996.875,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"0.4"
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.25",
+						"2"
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"onBeat",
+						"true",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				54500,
+				[
+					[
+						"Set Cam Zoom",
+						"1.25",
+						"1.2"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-bedalt-bside"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-bed1-bside"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.5"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-bed-bside"
+					],
+					[
+						"Change Character",
+						"1",
+						"dad-bed-bside"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-bedalt-bside"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-bed1-bside"
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-bed-bside"
+					],
+					[
+						"Change Character",
+						"1",
+						"dad-bed-bside"
+					]
+				]
+			],
+			[
+				103000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.25",
+						"1"
+					]
+				]
+			],
+			[
+				103987.5,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-bedalt-bside"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-bed1-bside"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				104500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				118500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				135000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.15",
+						"1"
+					]
+				]
+			],
+			[
+				135453.125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				151000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.25",
+						"1"
+					]
+				]
+			],
+			[
+				151996.875,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.5"
+					]
+				]
+			],
+			[
+				152000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.035",
+						"0.04"
+					]
+				]
+			],
+			[
+				152500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				153500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153993.75,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154000,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-bed-bside"
+					],
+					[
+						"Change Character",
+						"1",
+						"dad-bed-bside"
+					]
+				]
+			],
+			[
+				155000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					],
+					[
+						"Toggle Trail",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				156500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				157000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				157500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				158000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				159000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				160500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				161000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				161500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				163000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				164000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				164500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				165000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				165500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				166000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				167000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				168500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				169000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				169500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				170000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				172000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				172500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				173000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				173500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				175000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				176000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				176500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				177000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				177500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				178000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				179000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				180500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				181000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				181500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				182000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				183993.75,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			],
+			[
+				184000,
+				[
+					[
+						"onBeat",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				185000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						"1"
+					]
+				]
+			],
+			[
+				185996.875,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				186000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-bed-bside",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bside-Bedeviled"
+	}
+}

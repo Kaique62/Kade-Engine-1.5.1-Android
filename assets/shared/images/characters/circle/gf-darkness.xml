@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darkgeef.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGF IdleGlow0000" x="0" y="0" width="309" height="439" frameX="0" frameY="-10" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0001" x="309" y="0" width="309" height="439" frameX="0" frameY="-10" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0002" x="618" y="0" width="302" height="439" frameX="-5" frameY="-10" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0003" x="920" y="0" width="302" height="439" frameX="-5" frameY="-10" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0004" x="1222" y="0" width="304" height="448" frameX="-2" frameY="-1" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0005" x="1526" y="0" width="304" height="448" frameX="-2" frameY="-1" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0006" x="1830" y="0" width="298" height="446" frameX="-8" frameY="-1" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0007" x="2128" y="0" width="298" height="446" frameX="-8" frameY="-1" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0008" x="2426" y="0" width="300" height="447" frameX="-12" frameY="0" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0009" x="2726" y="0" width="300" height="447" frameX="-12" frameY="0" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0010" x="3026" y="0" width="298" height="447" frameX="-14" frameY="0" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0011" x="3324" y="0" width="298" height="447" frameX="-14" frameY="0" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0012" x="3622" y="0" width="298" height="447" frameX="-14" frameY="0" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0013" x="0" y="448" width="298" height="447" frameX="-14" frameY="0" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF IdleGlow0014" x="298" y="448" width="298" height="447" frameX="-14" frameY="0" frameWidth="312" frameHeight="449"/>
+	<SubTexture name="BGF Note DOWNGlow0000" x="596" y="448" width="302" height="446" frameX="0" frameY="0" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0001" x="898" y="448" width="302" height="446" frameX="0" frameY="0" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0002" x="1200" y="448" width="297" height="428" frameX="-5" frameY="-17" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0003" x="1497" y="448" width="297" height="428" frameX="-5" frameY="-17" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0004" x="1794" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0005" x="2091" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0006" x="2388" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0007" x="2685" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0008" x="2982" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0009" x="3279" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0010" x="3576" y="448" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0011" x="0" y="895" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0012" x="297" y="895" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0013" x="594" y="895" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0014" x="891" y="895" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0015" x="1188" y="895" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note DOWNGlow0016" x="1485" y="895" width="297" height="441" frameX="-8" frameY="-6" frameWidth="305" frameHeight="447"/>
+	<SubTexture name="BGF Note LEFTGlow0000" x="1782" y="895" width="299" height="444" frameX="0" frameY="0" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0001" x="2081" y="895" width="299" height="444" frameX="0" frameY="0" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0002" x="2380" y="895" width="297" height="444" frameX="-5" frameY="0" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0003" x="2677" y="895" width="297" height="444" frameX="-5" frameY="0" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0004" x="2974" y="895" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0005" x="3272" y="895" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0006" x="3570" y="895" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0007" x="0" y="1339" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0008" x="298" y="1339" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0009" x="596" y="1339" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0010" x="894" y="1339" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0011" x="1192" y="1339" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0012" x="1490" y="1339" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0013" x="1788" y="1339" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0014" x="2086" y="1339" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0015" x="2384" y="1339" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note LEFTGlow0016" x="2682" y="1339" width="298" height="443" frameX="-6" frameY="-1" frameWidth="304" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTGlow0000" x="2980" y="1339" width="301" height="448" frameX="-4" frameY="-2" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0001" x="3281" y="1339" width="301" height="448" frameX="-4" frameY="-2" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0002" x="3582" y="1339" width="297" height="447" frameX="-4" frameY="-3" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0003" x="0" y="1787" width="297" height="447" frameX="-4" frameY="-3" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0004" x="297" y="1787" width="300" height="449" frameX="-1" frameY="-1" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0005" x="597" y="1787" width="300" height="449" frameX="-1" frameY="-1" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0006" x="897" y="1787" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0007" x="1198" y="1787" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0008" x="1499" y="1787" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0009" x="1800" y="1787" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0010" x="2101" y="1787" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0011" x="2402" y="1787" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0012" x="2703" y="1787" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0013" x="3004" y="1787" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0014" x="3305" y="1787" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0015" x="3606" y="1787" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note RIGHTGlow0016" x="0" y="2237" width="301" height="450" frameX="0" frameY="0" frameWidth="305" frameHeight="450"/>
+	<SubTexture name="BGF Note UPGlow0000" x="301" y="2237" width="319" height="443" frameX="0" frameY="-8" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0001" x="620" y="2237" width="319" height="443" frameX="0" frameY="-8" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0002" x="939" y="2237" width="313" height="451" frameX="-5" frameY="-3" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0003" x="1252" y="2237" width="313" height="451" frameX="-5" frameY="-3" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0004" x="1565" y="2237" width="306" height="456" frameX="-12" frameY="0" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0005" x="1871" y="2237" width="306" height="456" frameX="-12" frameY="0" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0006" x="2177" y="2237" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0007" x="2480" y="2237" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0008" x="2783" y="2237" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0009" x="3086" y="2237" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0010" x="3389" y="2237" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0011" x="3692" y="2237" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0012" x="0" y="2693" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0013" x="303" y="2693" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0014" x="606" y="2693" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0015" x="909" y="2693" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+	<SubTexture name="BGF Note UPGlow0016" x="1212" y="2693" width="303" height="455" frameX="-15" frameY="-1" frameWidth="319" frameHeight="456"/>
+</TextureAtlas>

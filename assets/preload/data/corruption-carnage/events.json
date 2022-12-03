@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stage-d1",
+		"player1": "bf-dad",
+		"player2": "sans",
+		"player3": null,
+		"events": [
+			[
+				79375,
+				[
+					[
+						"Change Character",
+						"1",
+						"sanstrombone"
+					]
+				]
+			],
+			[
+				79875,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfbruh"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"onBeat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"onBeat",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				113750,
+				[
+					[
+						"Change Character",
+						"1",
+						"sans"
+					]
+				]
+			],
+			[
+				135750,
+				[
+					[
+						"Change Character",
+						"1",
+						"sanstrombone"
+					]
+				]
+			],
+			[
+				145750,
+				[
+					[
+						"Change Character",
+						"1",
+						"sans"
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"onBeat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				162125,
+				[
+					[
+						"Change Character",
+						"1",
+						"sanstrombone"
+					]
+				]
+			],
+			[
+				209875,
+				[
+					[
+						"Change Character",
+						"1",
+						"sans"
+					]
+				]
+			],
+			[
+				211750,
+				[
+					[
+						"onBeat",
+						"false",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Corruption-Carnage"
+	}
+}

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFAngy.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGF IdlePissed0000" x="0" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0001" x="0" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0002" x="319" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0003" x="319" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0004" x="638" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0005" x="638" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0006" x="957" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0007" x="957" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0008" x="1276" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0009" x="1276" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0010" x="1595" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0011" x="1595" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0012" x="1595" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0013" x="1595" y="0" width="319" height="429"/>
+	<SubTexture name="BGF IdlePissed0014" x="1595" y="0" width="319" height="429"/>
+	<SubTexture name="BGF Note DOWNPissed0000" x="1914" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0001" x="1914" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0002" x="2236" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0003" x="2236" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0004" x="2558" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0005" x="2558" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0006" x="2880" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0007" x="2880" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0008" x="3202" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0009" x="3202" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0010" x="3202" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0011" x="3202" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0012" x="3202" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0013" x="3202" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0014" x="3202" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0015" x="3202" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note DOWNPissed0016" x="3202" y="0" width="322" height="415"/>
+	<SubTexture name="BGF Note LEFTPissed0000" x="3524" y="0" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0001" x="3524" y="0" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0002" x="0" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0003" x="0" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0004" x="321" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0005" x="321" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0006" x="642" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0007" x="642" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0008" x="963" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0009" x="963" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0010" x="963" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0011" x="963" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0012" x="963" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0013" x="963" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0014" x="963" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0015" x="963" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note LEFTPissed0016" x="963" y="433" width="321" height="433"/>
+	<SubTexture name="BGF Note RIGHTPissed0000" x="1284" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0001" x="1284" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0002" x="1616" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0003" x="1616" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0004" x="1948" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0005" x="1948" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0006" x="2280" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0007" x="2280" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0008" x="2612" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0009" x="2612" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0010" x="2612" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0011" x="2612" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0012" x="2612" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0013" x="2612" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0014" x="2612" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0015" x="2612" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note RIGHTPissed0016" x="2612" y="433" width="332" height="440"/>
+	<SubTexture name="BGF Note UPPissed0000" x="2944" y="433" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0001" x="2944" y="433" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0002" x="3247" y="433" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0003" x="3247" y="433" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0004" x="3550" y="433" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0005" x="3550" y="433" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0006" x="0" y="873" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0007" x="0" y="873" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0008" x="303" y="873" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0009" x="303" y="873" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0010" x="303" y="873" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0011" x="303" y="873" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0012" x="303" y="873" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0013" x="303" y="873" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0014" x="303" y="873" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0015" x="303" y="873" width="303" height="440"/>
+	<SubTexture name="BGF Note UPPissed0016" x="303" y="873" width="303" height="440"/>
+</TextureAtlas>

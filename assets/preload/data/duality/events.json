@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "duality-alleway",
+		"player1": "bf-duality",
+		"player2": "mom-duality",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"1.15",
+						""
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				94000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.20",
+						""
+					]
+				]
+			],
+			[
+				95000,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"gf"
+					],
+					[
+						"Add Camera Zoom",
+						"0.4",
+						"0.1"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					]
+				]
+			],
+			[
+				103500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"gf"
+					],
+					[
+						"Add Camera Zoom",
+						"0.4",
+						"0.1"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Change Character",
+						"1",
+						"mom-duality2"
+					],
+					[
+						"Set Cam Zoom",
+						"1.15",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "pico-duality",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Duality"
+	}
+}

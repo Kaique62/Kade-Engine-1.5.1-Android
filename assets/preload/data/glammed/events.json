@@ -1,0 +1,349 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "limo",
+		"player1": "cursedpico22",
+		"player2": "momPISSED1",
+		"player3": null,
+		"events": [
+			[
+				9777.77777777778,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				14111.1111111111,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14222.2222222222,
+				[
+					[
+						"Play Animation",
+						"bf",
+						"shoot"
+					]
+				]
+			],
+			[
+				14222.2222222222,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				16888.8888888889,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"bf"
+					]
+				]
+			],
+			[
+				17666.6666666667,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17777.7777777778,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				21222.2222222222,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21333.3333333333,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				30111.1111111111,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30222.2222222222,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				35444.4444444444,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"cursedpico2"
+					]
+				]
+			],
+			[
+				35555.5555555556,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				44333.3333333333,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44444.4444444445,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				45333.3333333334,
+				[
+					[
+						"Play Animation",
+						"bf",
+						"reload"
+					]
+				]
+			],
+			[
+				46111.1111111111,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46222.2222222222,
+				[
+					[
+						"Play Animation",
+						"bf",
+						"shoot"
+					]
+				]
+			],
+			[
+				56777.7777777778,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"cursedpico"
+					],
+					[
+						"Change Character",
+						"1",
+						"momPISSED2"
+					]
+				]
+			],
+			[
+				56888.8888888889,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				63888.8888888889,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64000.0000000001,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				67444.4444444445,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67555.5555555556,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				71000.0000000001,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"picod3-4"
+					],
+					[
+						"Change Character",
+						"1",
+						"momd2"
+					]
+				]
+			],
+			[
+				71111.1111111112,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				78111.1111111112,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78222.2222222223,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			],
+			[
+				85333.3333333334,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"momd3"
+					]
+				]
+			],
+			[
+				85333.3333333334,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 135,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Glammed"
+	}
+}

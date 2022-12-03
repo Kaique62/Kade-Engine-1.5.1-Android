@@ -1,0 +1,269 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "stage-d2",
+		"player1": "bf-dad",
+		"player2": "dad-af",
+		"player3": null,
+		"events": [
+			[
+				12000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				40500,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-af1"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-af"
+					]
+				]
+			],
+			[
+				70500,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-af1"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				86250,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-af"
+					]
+				]
+			],
+			[
+				95995.3125,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-af1"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-afalt"
+					]
+				]
+			],
+			[
+				101995.3125,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-af"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-af"
+					]
+				]
+			],
+			[
+				107992.96875,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-af1"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-afalt"
+					]
+				]
+			],
+			[
+				108375,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-af1alt"
+					]
+				]
+			],
+			[
+				119995.3125,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-af"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-af1"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-af"
+					]
+				]
+			],
+			[
+				127495.3125,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-af1"
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-afalt"
+					]
+				]
+			],
+			[
+				133500,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-af1alt"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-afaltfinal"
+					]
+				]
+			],
+			[
+				174000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-afalt"
+					]
+				]
+			],
+			[
+				178497.65625,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-af"
+					]
+				]
+			],
+			[
+				178500,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-af"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-af",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Megaloffliction"
+	}
+}

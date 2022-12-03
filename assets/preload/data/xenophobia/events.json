@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "spooky-2",
+		"player1": "pico-spooky",
+		"player2": "spooky-2",
+		"player3": null,
+		"events": [
+			[
+				76800,
+				[
+					[
+						"Change Character",
+						"1",
+						"spooky-2alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Xenophobia"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "spooky-2",
+		"player1": "pico-spooky-bside",
+		"player2": "bf",
+		"player3": null,
+		"events": [
+			[
+				91354.8387096775,
+				[
+					[
+						"Change Character",
+						"1",
+						"spooky-2alt-bside"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bside-Xenophobia"
+	}
+}

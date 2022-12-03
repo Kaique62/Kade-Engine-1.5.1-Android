@@ -1,0 +1,174 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "stage-d2",
+		"player1": "bf-spiritinsane",
+		"player2": "dad-resurgence",
+		"player3": null,
+		"events": [
+			[
+				67636.3636363637,
+				[
+					[
+						"Set Cam Zoom",
+						".5",
+						""
+					]
+				]
+			],
+			[
+				69272.7272727273,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					],
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				69818.1818181819,
+				[
+					[
+						"Black Screen Flash",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-spiritinsane2"
+					],
+					[
+						"Screen Shake",
+						"50, 0.004",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"dad-resurgence2"
+					]
+				]
+			],
+			[
+				118636.363636364,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				121636.363636364,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				122181.818181818,
+				[
+					[
+						"Set Cam Zoom",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				130909.090909091,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				154909.090909091,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				157090.909090909,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Screen Shake",
+						"24, 0.004",
+						""
+					]
+				]
+			],
+			[
+				181090.909090909,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				183272.727272727,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"dad-corrupt2"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 110,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "resurgence"
+	}
+}

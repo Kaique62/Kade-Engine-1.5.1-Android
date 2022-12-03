@@ -1,0 +1,174 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "school-banishment",
+		"player1": "bf-pixel6-3alt",
+		"player2": "spirit-short",
+		"player3": null,
+		"events": [
+			[
+				22588.2352941176,
+				[
+					[
+						"White Screen Flash",
+						"6",
+						""
+					],
+					[
+						"Banishment Main Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit-ban"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel6-4"
+					]
+				]
+			],
+			[
+				180705.882352941,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit"
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Banishment Thorns Switch",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183529.411764706,
+				[
+					[
+						"Banishment Short Switch",
+						"",
+						""
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				186352.94117647,
+				[
+					[
+						"Banishment Glitch Switch",
+						"",
+						""
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				189176.470588235,
+				[
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Banishment Main Switch",
+						"",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Banishment Glitch Switch",
+						"",
+						""
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				194823.529411764,
+				[
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Banishment Short Switch",
+						"",
+						""
+					]
+				]
+			],
+			[
+				197647.058823529,
+				[
+					[
+						"Banishment Thorns Switch",
+						"",
+						""
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				203294.117647058,
+				[
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Banishment Main Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit-ban"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 170,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Banishment"
+	}
+}

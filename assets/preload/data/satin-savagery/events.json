@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "limo",
+		"player1": "picod1-alt",
+		"player2": "momd1",
+		"player3": null,
+		"events": [
+			[
+				6259.80392156863,
+				[
+					[
+						"Change Character",
+						"0",
+						"picod1"
+					]
+				]
+			],
+			[
+				62745.0980392157,
+				[
+					[
+						"Change Character",
+						"1",
+						"momd1alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 153,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "satin-savagery"
+	}
+}

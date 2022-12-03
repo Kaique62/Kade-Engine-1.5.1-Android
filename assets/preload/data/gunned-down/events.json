@@ -1,0 +1,144 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "philly2",
+		"player1": "bf-pico2",
+		"player2": "pico2",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Philly Glow",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				11700,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-pico2"
+					]
+				]
+			],
+			[
+				11877.5,
+				[
+					[
+						"Philly Glow",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				11900,
+				[
+					[
+						"Play Animation",
+						"gf-reload",
+						"dad"
+					]
+				]
+			],
+			[
+				11937.5,
+				[
+					[
+						"Play Animation",
+						"reach",
+						"gf"
+					]
+				]
+			],
+			[
+				12732.5,
+				[
+					[
+						"Philly Glow",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				12750,
+				[
+					[
+						"Play Animation",
+						"gf-shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				12775,
+				[
+					[
+						"Play Animation",
+						"gf-dies-lmao",
+						"GF"
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31100,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"dad"
+					]
+				]
+			],
+			[
+				95100,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-pico2alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pico",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Gunned-Down"
+	}
+}

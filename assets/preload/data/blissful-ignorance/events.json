@@ -1,0 +1,499 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "school",
+		"player1": "bf-pixel",
+		"player2": "senpai",
+		"player3": null,
+		"events": [
+			[
+				54849.1071428572,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch1"
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				54881.25,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-glitch"
+					]
+				]
+			],
+			[
+				56981.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai"
+					]
+				]
+			],
+			[
+				57008.0357142858,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel"
+					]
+				]
+			],
+			[
+				58915.1785714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				58928.5714285715,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-glitch"
+					]
+				]
+			],
+			[
+				58950,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch1"
+					]
+				]
+			],
+			[
+				59330.3571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				59357.1428571429,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel"
+					]
+				]
+			],
+			[
+				59386.6071428572,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai"
+					]
+				]
+			],
+			[
+				61071.4285714286,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch2"
+					]
+				]
+			],
+			[
+				67687.5000000001,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				67714.2857142858,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch1"
+					]
+				]
+			],
+			[
+				67751.7857142858,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-glitch"
+					]
+				]
+			],
+			[
+				68544.6428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				68563.3928571429,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai"
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch2"
+					]
+				]
+			],
+			[
+				72401.7857142858,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				72428.5714285715,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch1"
+					]
+				]
+			],
+			[
+				72452.6785714286,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-glitch"
+					]
+				]
+			],
+			[
+				73698.2142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				73714.2857142858,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai"
+					]
+				]
+			],
+			[
+				73733.0357142858,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch2"
+					]
+				]
+			],
+			[
+				76025.8928571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				76071.4285714286,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch1"
+					]
+				]
+			],
+			[
+				76098.2142857143,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-glitch"
+					]
+				]
+			],
+			[
+				76465.1785714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				76500,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch2"
+					]
+				]
+			],
+			[
+				76513.3928571429,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai"
+					]
+				]
+			],
+			[
+				77539.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				77571.4285714286,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch1"
+					]
+				]
+			],
+			[
+				77606.25,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-glitch"
+					]
+				]
+			],
+			[
+				77678.5714285715,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch2"
+					]
+				]
+			],
+			[
+				77734.8214285715,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch1"
+					]
+				]
+			],
+			[
+				108034.821428571,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-glitch"
+					]
+				]
+			],
+			[
+				108857.142857143,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch2"
+					]
+				]
+			],
+			[
+				108883.928571429,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai"
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch1"
+					]
+				]
+			],
+			[
+				109741.071428571,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-glitch"
+					]
+				]
+			],
+			[
+				110223.214285714,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch2"
+					]
+				]
+			],
+			[
+				110250,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai"
+					]
+				]
+			],
+			[
+				110429.464285714,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch1"
+					]
+				]
+			],
+			[
+				110464.285714286,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-glitch"
+					]
+				]
+			],
+			[
+				110646.428571429,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch2"
+					]
+				]
+			],
+			[
+				110678.571428571,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Blissful-Ignorance"
+	}
+}

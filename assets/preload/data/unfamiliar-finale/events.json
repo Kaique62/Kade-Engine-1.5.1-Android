@@ -1,0 +1,249 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stage-d3",
+		"player1": "bf-dad",
+		"player2": "dad-fakeout-alt",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"BFXTween",
+						"1200",
+						"0.1"
+					]
+				]
+			],
+			[
+				10166.6666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1.15",
+						""
+					],
+					[
+						"BFXTween",
+						"770",
+						"0.3"
+					]
+				]
+			],
+			[
+				10666.6666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-fakeout2"
+					],
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				43833.3333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-pissed-alt"
+					]
+				]
+			],
+			[
+				43862.5,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-blank"
+					]
+				]
+			],
+			[
+				43916.6666666667,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-dad"
+					]
+				]
+			],
+			[
+				87916.6666666666,
+				[
+					[
+						"Change Character",
+						"0",
+						"pico-dad"
+					]
+				]
+			],
+			[
+				122583.333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"spooky-corrupt"
+					]
+				]
+			],
+			[
+				177110.416666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-mom"
+					]
+				]
+			],
+			[
+				177166.666666667,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-blank"
+					]
+				]
+			],
+			[
+				177250,
+				[
+					[
+						"Change Character",
+						"0",
+						"mom-dad"
+					]
+				]
+			],
+			[
+				245083.333333334,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-blank"
+					]
+				]
+			],
+			[
+				245166.666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-bf1-alt"
+					]
+				]
+			],
+			[
+				245250.000000001,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-dad"
+					]
+				]
+			],
+			[
+				359916.666666666,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				359999.999999999,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-blank"
+					]
+				]
+			],
+			[
+				360033.333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-bf2-alt"
+					]
+				]
+			],
+			[
+				362583.333333333,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				362666.666666666,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-bf3-alt"
+					]
+				]
+			],
+			[
+				362693.749999999,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-blank"
+					]
+				]
+			],
+			[
+				417872.916666665,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-corrupt-alt"
+					]
+				]
+			],
+			[
+				417916.666666665,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-blank"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Unfamiliar-Finale"
+	}
+}

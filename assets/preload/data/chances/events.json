@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "stage-chances",
+		"player1": "mystery-spirit",
+		"player2": "dad-shadow",
+		"player3": null,
+		"events": [
+			[
+				81600,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-spirit-1"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-spirit"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-blank"
+					],
+					[
+						"onBeat",
+						"true",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-shadow",
+		"bpm": 100,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Chances"
+	}
+}

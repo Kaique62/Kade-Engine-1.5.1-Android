@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mom-finalweek.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MOM DOWN POSE0000" x="0" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0001" x="0" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0002" x="414" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0003" x="414" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0004" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0005" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0006" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0007" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0008" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0009" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0010" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0011" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0012" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0013" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="MOM DOWN POSE0014" x="828" y="0" width="414" height="613"/>
+	<SubTexture name="Mom Idle0000" x="1242" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0001" x="1242" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0002" x="1632" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0003" x="1632" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0004" x="2022" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0005" x="2022" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0006" x="2412" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0007" x="2412" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0008" x="2802" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0009" x="2802" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0010" x="3192" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0011" x="3192" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0012" x="3582" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Idle0013" x="3582" y="0" width="390" height="829"/>
+	<SubTexture name="Mom Left Pose0000" x="0" y="829" width="607" height="818"/>
+	<SubTexture name="Mom Left Pose0001" x="0" y="829" width="607" height="818"/>
+	<SubTexture name="Mom Left Pose0002" x="607" y="829" width="607" height="818"/>
+	<SubTexture name="Mom Left Pose0003" x="607" y="829" width="607" height="818"/>
+	<SubTexture name="Mom Left Pose0004" x="1214" y="829" width="607" height="818"/>
+	<SubTexture name="Mom Left Pose0005" x="1214" y="829" width="607" height="818"/>
+	<SubTexture name="Mom Left Pose0006" x="1214" y="829" width="607" height="818"/>
+	<SubTexture name="Mom Left Pose0007" x="1214" y="829" width="607" height="818"/>
+	<SubTexture name="Mom Left Pose0008" x="1214" y="829" width="607" height="818"/>
+	<SubTexture name="Mom Left Pose0009" x="1214" y="829" width="607" height="818"/>
+	<SubTexture name="Mom Pose Left0000" x="1821" y="829" width="578" height="771"/>
+	<SubTexture name="Mom Pose Left0001" x="1821" y="829" width="578" height="771"/>
+	<SubTexture name="Mom Pose Left0002" x="2399" y="829" width="578" height="771"/>
+	<SubTexture name="Mom Pose Left0003" x="2399" y="829" width="578" height="771"/>
+	<SubTexture name="Mom Pose Left0004" x="2977" y="829" width="578" height="771"/>
+	<SubTexture name="Mom Pose Left0005" x="2977" y="829" width="578" height="771"/>
+	<SubTexture name="Mom Pose Left0006" x="2977" y="829" width="578" height="771"/>
+	<SubTexture name="Mom Pose Left0007" x="2977" y="829" width="578" height="771"/>
+	<SubTexture name="Mom Pose Left0008" x="2977" y="829" width="578" height="771"/>
+	<SubTexture name="Mom Pose Left0009" x="2977" y="829" width="578" height="771"/>
+	<SubTexture name="Mom Up Pose0000" x="3555" y="829" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0001" x="3555" y="829" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0002" x="0" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0003" x="0" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0004" x="395" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0005" x="395" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0006" x="790" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0007" x="790" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0008" x="395" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0009" x="395" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0010" x="790" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0011" x="790" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0012" x="395" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0013" x="395" y="1691" width="395" height="862"/>
+	<SubTexture name="Mom Up Pose0014" x="790" y="1691" width="395" height="862"/>
+	<SubTexture name="she angy0000" x="1185" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0001" x="1185" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0002" x="1624" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0003" x="1624" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0004" x="2063" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0005" x="2063" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0006" x="2502" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0007" x="2502" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0008" x="2941" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0009" x="2941" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0010" x="3380" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0011" x="3380" y="1691" width="439" height="833"/>
+	<SubTexture name="she angy0012" x="0" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0013" x="0" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0014" x="439" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0015" x="439" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0016" x="878" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0017" x="878" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0018" x="1317" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0019" x="1317" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0020" x="1756" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0021" x="1756" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0022" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0023" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0024" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0025" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0026" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0027" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0028" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0029" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0030" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0031" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0032" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0033" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0034" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0035" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0036" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0037" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0038" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0039" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0040" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0041" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0042" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0043" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0044" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0045" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0046" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0047" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0048" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0049" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0050" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0051" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0052" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0053" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0054" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0055" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0056" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0057" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0058" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0059" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0060" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0061" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0062" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0063" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0064" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0065" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0066" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0067" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0068" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0069" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0070" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0071" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0072" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0073" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0074" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0075" x="2195" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0076" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0077" x="2634" y="2553" width="439" height="833"/>
+	<SubTexture name="she angy0078" x="2195" y="2553" width="439" height="833"/>
+</TextureAtlas>

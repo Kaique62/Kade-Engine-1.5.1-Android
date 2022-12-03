@@ -1,0 +1,204 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "stage-d1",
+		"player1": "bf-dad",
+		"player2": "dad-bed",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"onBeat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"Change Character",
+						"2",
+						"sans"
+					],
+					[
+						"Change Character",
+						"0",
+						"bfbruh"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-bed"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-dad"
+					]
+				]
+			],
+			[
+				46000,
+				[
+					[
+						"Change Character",
+						"2",
+						"sans"
+					],
+					[
+						"Change Character",
+						"0",
+						"bfbruh"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-bed"
+					],
+					[
+						"Change Character",
+						"0 ",
+						"bf-dad"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-bedalt"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				136000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-bed"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"onBeat",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				145000,
+				[
+					[
+						"Change Character",
+						"2",
+						"Eduardo-oppo"
+					],
+					[
+						"Change Character",
+						"0",
+						"bfbruh"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145125,
+				[
+					[
+						"Play Animation",
+						"EduardoWell",
+						"gf"
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				145434.375,
+				[
+					[
+						"Play Animation",
+						"EduardoWell",
+						"gf"
+					],
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				145762.5,
+				[
+					[
+						"Play Animation",
+						"EduardoWell",
+						"gf"
+					],
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				146443.75,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-bed",
+		"bpm": 120,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Bedeviled-Betamix"
+	}
+}

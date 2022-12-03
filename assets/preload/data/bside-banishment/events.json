@@ -1,0 +1,164 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "schoolEvil-bside",
+		"player1": "bf-pixel-soul-bside",
+		"player2": "spirit-sad-bside",
+		"player3": null,
+		"events": [
+			[
+				121263.157894737,
+				[
+					[
+						"Change Character",
+						"1",
+						"spirit-bside"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch2-bside"
+					]
+				]
+			],
+			[
+				141473.684210526,
+				[
+					[
+						"Change Character",
+						"1",
+						"spirit-sad-bside"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-soul-bside"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				161684.210526316,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				164210.52631579,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				166736.842105263,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				169263.157894737,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171789.473684211,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174315.789473684,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				176842.105263158,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				179368.421052632,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				181894.736842106,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-serius-bside"
+					],
+					[
+						"Change Character",
+						"2",
+						"spirit-sad-gf-bside"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				232421.05263158,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "senpai-panic-bside",
+		"bpm": 190,
+		"arrowSkin": "NOTE_assetsFallen",
+		"needsVoices": true,
+		"song": "Bside-Banishment"
+	}
+}

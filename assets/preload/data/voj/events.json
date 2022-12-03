@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "school",
+		"player1": "bf-pixel",
+		"player2": "senpai",
+		"player3": null,
+		"events": [
+			[
+				29500,
+				[
+					[
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"senpai-angry"
+					],
+					[
+						"Screen Shake",
+						"2,0.005",
+						""
+					]
+				]
+			],
+			[
+				60614.0625,
+				[
+					[
+						"Screen Shake",
+						"200,0.05",
+						""
+					]
+				]
+			],
+			[
+				60625,
+				[
+					[
+						"Screen Shake",
+						"2,0.005",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.25",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"spirit-sad "
+					]
+				]
+			],
+			[
+				61423.4375,
+				[
+					[
+						"Screen Shake",
+						"200,0.05",
+						""
+					]
+				]
+			],
+			[
+				61437.5,
+				[
+					[
+						"Change Character",
+						"1",
+						"spirit-grey"
+					]
+				]
+			],
+			[
+				62000,
+				[
+					[
+						"Screen Shake",
+						"200,0.05",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 240,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Voj"
+	}
+}

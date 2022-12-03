@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "school-2",
+		"player1": "bf-pixel-glitch2-bside",
+		"player2": "senpai-angry-bside",
+		"player3": null,
+		"events": [
+			[
+				6400,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch3-bside"
+					],
+					[
+						"Screen Shake",
+						"1, 0.01",
+						""
+					],
+					[
+						"noteskinchange",
+						"NOTE_assetsDesat",
+						""
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-angry-glitch-bside"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch4-bside"
+					],
+					[
+						"Screen Shake",
+						"38.38, 0.01",
+						""
+					]
+				]
+			],
+			[
+				121600,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-angry-bside"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch3-bside"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bside-Disconnection"
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "school-2",
+		"player1": "bf-pixel-glitch1",
+		"player2": "senpai-angry",
+		"player3": null,
+		"events": [
+			[
+				14769.2307692308,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch3"
+					]
+				]
+			],
+			[
+				120923.076923077,
+				[
+					[
+						"Play Animation",
+						"glitch",
+						"0"
+					],
+					[
+						"Set Cam Zoom",
+						"1.9",
+						""
+					]
+				]
+			],
+			[
+				121846.153846154,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-angry-glitch"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch4"
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				155076.923076923,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel-glitch3"
+					],
+					[
+						"Change Character",
+						"1",
+						"senpai-angry"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": " ",
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "disconnection"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "alleyway",
+		"player1": "bf-4-2",
+		"player2": "mom-valor",
+		"player3": null,
+		"events": [
+			[
+				103500,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-4-2-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Devitalization"
+	}
+}

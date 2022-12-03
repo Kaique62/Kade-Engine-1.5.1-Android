@@ -29,6 +29,8 @@ class Note extends FlxSprite
 
 	public var noteScore:Float = 1;
 
+	public var notetype:String = "normal";
+
 	public static var swagWidth:Float = 160 * 0.7;
 	public static var PURP_NOTE:Int = 0;
 	public static var GREEN_NOTE:Int = 2;
@@ -37,13 +39,14 @@ class Note extends FlxSprite
 
 	public var rating:String = "shit";
 
-	public function new(strumTime:Float, noteData:Int, ?prevNote:Note, ?sustainNote:Bool = false)
+	public function new(strumTime:Float, noteData:Int, ?prevNote:Note, ?sustainNote:Bool = false, notetype:String = "normal")
 	{
 		super();
 
 		if (prevNote == null)
 			prevNote = this;
 
+		this.notetype = notetype;
 		this.prevNote = prevNote;
 		isSustainNote = sustainNote;
 
@@ -87,7 +90,16 @@ class Note extends FlxSprite
 				setGraphicSize(Std.int(width * PlayState.daPixelZoom));
 				updateHitbox();
 			default:
-				frames = Paths.getSparrowAtlas('NOTE_assets');
+				var daPath:String = 'NOTE_assets';
+				switch(notetype){
+					case 'bullet':
+						daPath = 'BULLETS_assets';
+				//	default:
+				//		daPath = 'NOTE_assets';	
+					case 'normal':
+						daPath = 'NOTE_assets';
+				}
+				frames = Paths.getSparrowAtlas(daPath);
 
 				animation.addByPrefix('greenScroll', 'green0');
 				animation.addByPrefix('redScroll', 'red0');
